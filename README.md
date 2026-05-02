@@ -54,6 +54,12 @@
     flutter run
     ```
 
+5.  **php and mysql**:
+    ```bash
+    in folder 'php_api'
+    ```
+    
+
 ---
 
 ## 👨‍💻 Author
