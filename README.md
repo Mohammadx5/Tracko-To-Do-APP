@@ -1,7 +1,6 @@
-# Tracko - Task Management App 📝
+# 📋 Tracko – Task Management App
 
-**Tracko** is a sleek and efficient task management application built with **Flutter**. It helps users organize their daily routines, track their goals, and stay productive with a beautiful and intuitive user interface.
-
+Tracko is a modern task management application developed using **Flutter** to help users organize daily tasks, track productivity, and manage their schedules through a clean and intuitive interface. The application integrates with a PHP & MySQL backend to store and manage task data.
 ---
 
 ## 📱 App Preview
@@ -18,20 +17,25 @@
 
 ## ✨ Features
 
-*   **Task Management**: Create, update, and delete tasks with ease.
-*   **Dynamic Loading**: Smooth transitions and loading states managed by Provider.
-*   **Custom Branding**: Unique app icon and splash screen design (Tracko Branding).
-*   **State Management**: Optimized performance using the `Provider` package.
-*   **Responsive UI**: Fully compatible with various Android screen sizes.
+- User-friendly task management interface
+- Create, update, complete, and delete tasks
+- Store and retrieve tasks using REST API
+- Responsive UI for different Android screen sizes
+- State management using Provider
+- Custom splash screen and application branding
+- Clean and organized user experience
 
 ---
 
 ## 🚀 Technologies Used
 
-*   **Framework**: [Flutter](https://flutter.dev)
-*   **Language**: [Dart](https://dart.dev)
-*   **State Management**: Provider
-*   **Icons & Assets**: Custom designed assets and Flutter Launcher Icons.
+*- Flutter
+- Dart
+- Provider
+- PHP
+- MySQL
+- REST API
+
 
 ---
 
@@ -61,11 +65,12 @@
     
 
 ---
+د
+## 👨‍💻 Developed By
 
-## 👨‍💻 Author
+- **Mohammad Abu Hasan**
+- **Basmala Mohammad**
 
-**MohammadAbuHasan** - *Flutter Developer*
-- GitHub: [@Mohammadx5](https://github.com/Mohammadx5)
 
 ---
-*Maintained by Mohammad. Feel free to reach out for collaborations!*
+Feel free to reach out for collaborations!*
